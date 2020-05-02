@@ -48,9 +48,13 @@ img{
 	max-width: 100%;
 	height: auto ;
 }
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500;1,700;1,900&display=swap');
 body{
     font-family: 'Roboto', sans-serif;
     font-style: italic;
+}
+.text{
+    font-family: 'Roboto', sans-serif;
 }
 .italic{
     font-style: italic;
@@ -149,6 +153,7 @@ body{
     font-size: 64px;
     line-height: 75px;
     margin-bottom: 16px;
+    margin-top: 64px;
 }
 .brandimg{
     width: 1224px;
