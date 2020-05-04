@@ -86,13 +86,11 @@ body{
     margin-bottom: 32px;
 }
 .header-text{
-    width: 308px;
     margin-bottom: 48px;
 }
 .socialMedia{
     display: flex;
-    justify-content: space-between;
-    width: 288px;
+    justify-content: space-evenly;
 }
 .about{
     display: flex;
